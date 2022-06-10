@@ -28,13 +28,14 @@ const Home: NextPage = () => {
             <p>Stack or Technologies that I am familiar with.</p>
           </a>
 
-          <a rel="noreferrer" href="https://blog.incognitomode.dev" className={styles.card}>
+          <a rel="noreferrer" target="_blank" href="https://blog.incognitomode.dev" className={styles.card}>
             <h2 className="hover:underline underline-offset-4" >Blog &rarr;</h2>
             <p>A blog where I record all my programming journeys.</p>
           </a>
 
           <a
             rel="noreferrer"
+            target="_blank"
             href="https://links.incognitomode.dev"
             className={styles.card}
           >
